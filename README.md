@@ -26,6 +26,8 @@ In the terminal, install dependencies for `sqlite3`, `dotenv`, `dotenv-cli`, and
 - `dotenv`, `sequelize`, and `sequelize-cli` should be installed as dependencies for development and production.
 
 
+!!!!!! require('dotenv').config() in .sequalizerc !!!!!!!!!!!
+
 ## Step 2: Use `.sequelizerc` to configure Sequelize initialization
 
 Create __server/.sequelizerc__ for your application.
